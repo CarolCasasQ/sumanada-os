@@ -1,3 +1,5 @@
 # Brand Book
 
-Pendiente.
+Marca: SuManada
+
+Tagline: Historias con alma para tu manada.
