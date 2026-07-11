@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 Document ID: DOC-001
 Title: Story Bible
@@ -142,3 +143,6 @@ El universo podrá crecer mediante cuentos, libros ilustrados, imprimibles, acti
 SuManada existe para recordarnos que el hogar no es un lugar.
 
 Es el vínculo que construimos cada día con quienes forman nuestra manada.
+=======
+pendiente.
+>>>>>>> df9cecfb83fe81658ace18cdc15b8651fec9d138
