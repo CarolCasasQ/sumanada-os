@@ -159,6 +159,29 @@ Su presencia debe hacer sentir al lector acompañado.
 
 ------------------------------------------------------------------------
 
+## Narrative Role
+
+Hanna no representa una mascota.
+
+Representa el descubrimiento del hogar.
+
+---
+
+## Visual Journey
+
+Durante el libro su mirada evoluciona.
+
+Inicio:
+Busca a Abby.
+
+Mitad:
+Busca seguridad.
+
+Final:
+Mira directamente al lector.
+
+Este recorrido visual forma parte de la narrativa y deberá respetarse en todas las ilustraciones del Volumen 1.
+
 # Canon oficial
 
 **Hanna encontró una familia cuando ya casi había dejado de buscarla.
