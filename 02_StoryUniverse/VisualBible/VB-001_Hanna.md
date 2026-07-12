@@ -142,3 +142,26 @@ Si alguna respuesta es "No", la ilustración no entra al libro.
 Versión 1.0 Candidate
 
 Pendiente de bloquear como versión oficial cuando Carol y Sandra aprueben la Biblia Visual completa.
+
+## Narrative Role
+
+Hanna no representa una mascota.
+
+Representa el descubrimiento del hogar.
+
+---
+
+## Visual Journey
+
+Durante el libro su mirada evoluciona.
+
+Inicio:
+Busca a Abby.
+
+Mitad:
+Busca seguridad.
+
+Final:
+Mira directamente al lector.
+
+Este recorrido visual forma parte de la narrativa y deberá respetarse en todas las ilustraciones del Volumen 1.
