@@ -60,3 +60,11 @@ Solo una mirada.
 - ¿Transmite protección?
 - ¿Se siente como una mamá?
 - ¿Educa con la mirada?
+
+## Legacy
+
+Abby nunca desaparece.
+
+Todo aquello que Hanna hace con amor tiene su origen en Abby.
+
+Abby representa el primer hogar.
