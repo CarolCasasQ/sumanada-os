@@ -1,72 +1,32 @@
-# CHANGELOG
+# Release 0.7.0 — The Editorial Foundation
 
-Todas las decisiones importantes del proyecto SuManada se registran aquí.
+## Objetivo
 
-Este documento resume la evolución del universo, la editorial y los productos.
+Congelar la infraestructura editorial mínima para iniciar la producción de BOOK-001.
 
----
+## Nuevos documentos
 
-# Release 01 · Fundación
-
-## Brand
-
-- Se aprueba el nombre **SuManada**.
-- Se registra el dominio sumanada.com.
-- Se define el propósito de la marca.
-- Se aprueba el Brand Book.
-
----
-
-# Release 02 · Universo
-
-## Story
-
-- Se crea el Story Bible Master.
-- Se define el universo narrativo.
-- Se establece la filosofía editorial.
-- Se crea el Story Design System.
-
----
-
-# Release 03 · Personajes
-
-## Characters
-
-- Se aprueba Sophie.
-- Se aprueba Hanna.
-- Se crean los Character Guides.
-- Se crea el Canon de personajes.
-
----
-
-# Release 04 · Producción Editorial
-
-## Editorial
-
-Se crean los documentos fundacionales:
-
-- Editorial Master
-- Book Layout System
-- Art Direction Bible
-- Narrative Voice Guide
-
-## Visual Identity Bible
-
-- VB-001 · Hanna
-- VB-002 · Abby
-- VB-003 · Sandra
+- DOC-004 ArtDirectionBible
+- DOC-005 NarrativeVoiceGuide
+- VB-001 Hanna
+- VB-002 Abby
+- VB-003 Sandra
 
 ## Decisiones editoriales
 
 - Cámara oficial a la altura de Hanna (~35 cm).
+- Sandra representa el color verde salvia.
+- El universo es universal, inspirado en Perú sin mencionarlo explícitamente.
 - Tiempo narrativo elástico.
-- El espacio en blanco forma parte de la narrativa.
-- Los libros terminan en silencio.
-- La unidad narrativa es la transformación.
-- El universo es universal (inspirado en Perú, sin mencionarlo explícitamente).
+- El lector debe cerrar el libro queriendo abrazar a alguien.
+- Arquitectura técnica en inglés; contenido creativo en español.
+- Numeración editorial de tres dígitos.
+- Versionado semántico.
+- Abby vive como legado, no como pérdida.
+- La narradora oficial es Hanna adulta recordando su infancia.
 
----
+## Cambio de estrategia
 
-## Próximo Release
+Se congela la infraestructura editorial.
 
-En construcción.
+A partir de este Release comienza oficialmente la producción de BOOK-001.
