@@ -37,3 +37,11 @@ Gestos suaves.
 - ¿Transmite hogar?
 - ¿Se siente cercana?
 - ¿Invita a confiar?
+
+- ## Narrative Role
+
+Sandra no rescata a Hanna.
+
+Le ofrece un hogar donde puede ser completamente ella misma.
+
+Sandra representa el segundo gran acto de amor del libro.
