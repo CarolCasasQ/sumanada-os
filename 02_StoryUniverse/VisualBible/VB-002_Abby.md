@@ -68,3 +68,38 @@ Abby nunca desaparece.
 Todo aquello que Hanna hace con amor tiene su origen en Abby.
 
 Abby representa el primer hogar.
+
+## Emotional Presence
+
+Abby transmite refugio.
+
+Nunca intenta llamar la atención.
+
+Su sola presencia reduce la tensión de la escena.
+
+El lector debe sentir que cerca de Abby todo está bien.
+
+---
+
+## Protective Behaviors
+
+- Rodea utilizando su cuerpo.
+- Permite que los cachorros descansen sobre ella.
+- Observa antes de intervenir.
+- Descansa profundamente cuando sus cachorros están seguros.
+
+---
+
+## Visual Identity
+
+Hocico oscuro muy característico.
+
+Orejas triangulares semi erguidas.
+
+Cuerpo compacto.
+
+Pelaje con múltiples tonos cálidos.
+
+Mirada serena.
+
+Nunca agresiva.
