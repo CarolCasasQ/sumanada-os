@@ -64,4 +64,10 @@ Un Spread se considera terminado únicamente cuando:
 - La ilustración está aprobada.
 - La maquetación está aprobada.
 - La lectura en voz alta funciona.
-- Está listo para imprenta.
+- Está listo para imprenta.## Golden Rule
+
+El manuscrito nunca describe una emoción que pueda ser mostrada por la ilustración.
+
+Texto e imagen se complementan.
+
+Nunca se repiten.
