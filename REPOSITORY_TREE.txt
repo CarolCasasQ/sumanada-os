@@ -1,0 +1,101 @@
+Folder PATH listing
+Volume serial number is 00000073 68C9:1D40
+C:.
+¦   CHANGELOG.md
+¦   README.md
+¦   REPOSITORY_TREE.txt
+¦   ROADMAP.MD
+¦   
++---00_Foundation
+¦       DecisionLog.md
+¦       Vision.md
+¦       
++---01_Brand
+¦       DOC-002_BrandBook.md
+¦       Moodboard.md
+¦       ToneOfVoice.md
+¦       
++---02_StoryUniverse
+¦   ¦   BookLayoutSystem.md
+¦   ¦   Canon.md
+¦   ¦   DOC-001_StoryBible.md
+¦   ¦   IllustrationGuide.md
+¦   ¦   Locations.md
+¦   ¦   StoryDesignSystem.md
+¦   ¦   
+¦   +---01_Canon
+¦   ¦       SourceOfTruth.md
+¦   ¦       
+¦   +---02_Editorial
+¦   ¦       DocumentLifecycle.md
+¦   ¦       
+¦   +---Characters
+¦   ¦   ¦   Carol.md
+¦   ¦   ¦   Cynthia.md
+¦   ¦   ¦   Hanna.md
+¦   ¦   ¦   Marcela.md
+¦   ¦   ¦   Nicolas.md
+¦   ¦   ¦   Sandra.md
+¦   ¦   ¦   Sophie.md
+¦   ¦   ¦   Walter.md
+¦   ¦   ¦   
+¦   ¦   +---Canon
+¦   ¦           HannaCanon.md
+¦   ¦           
+¦   +---Locations
+¦   ¦       LOC-001_DepartmentOfSandra.md
+¦   ¦       
+¦   +---RelationshipBible
+¦   ¦       RELATIONSHIP_BIBLE.md
+¦   ¦       
+¦   +---VisualBible
+¦           readme.md
+¦           VB-001_Hanna.md
+¦           VB-002_Abby.md
+¦           VB-003_Sandra.md
+¦           VB-004_Andrea.md
+¦           VB-005_Sophie.md
+¦           
++---03_Product
+¦   ¦   README.md
+¦   ¦   
+¦   +---BOOK-001_Hanna_Encontro_un_Hogar
+¦   ¦   ¦   README.md
+¦   ¦   ¦   README_SPREAD_CHECKLIST.md
+¦   ¦   ¦   
+¦   ¦   +---IllustrationBriefs
+¦   ¦   ¦       SPREAD-001.md
+¦   ¦   ¦       
+¦   ¦   +---Manuscript
+¦   ¦   ¦       Book-001_Hanna_Encontro_un_Hogar.md
+¦   ¦   ¦       
+¦   ¦   +---Planning
+¦   ¦   ¦   ¦   BOOK-001_BeatSheet.md
+¦   ¦   ¦   ¦   BOOK-001_EditorialIntent.md
+¦   ¦   ¦   ¦   Book-001_Hanna_Encontro_un_Hogar.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Manuscript
+¦   ¦   ¦           SPREAD-001.md
+¦   ¦   ¦           
+¦   ¦   +---Prompts
+¦   ¦           SPREAD-001.md
+¦   ¦           
+¦   +---Editorial
+¦           DOC-003_Editorial_Master.md
+¦           
++---04_Web
+¦       ComponentLibrary.md
+¦       DesignSystem.md
+¦       LovableRules.md
+¦       SEO_Guide.md
+¦       
++---06_AI
+¦       PromptLibrary.md
+¦       
++---08_Assets
+¦       README.md
+¦       
++---99_Archive
+        BrandBook.md
+        BrandBook_v2.md
+        
