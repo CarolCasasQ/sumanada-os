@@ -1382,3 +1382,96 @@ Esta página no debe sentirse como una introducción.
 Debe sentirse como la primera página de un libro que merece conservarse durante toda la vida.
 
 <!-- END PATCH v0.9 -->
+## PATCH v1.0
+
+### Acción
+
+✏️ Reemplazar únicamente la sección:
+
+```md
+# Cómo usar este Puppy Planner
+```
+
+por la siguiente versión editorial.
+
+---
+
+# Cómo vivir este Puppy Planner
+
+No existe una forma correcta de completar este libro.
+
+Algunas familias escribirán cada página.
+
+Otras pegarán fotografías.
+
+Algunas conservarán un mechón de pelo después del primer corte.
+
+O una pequeña tarjeta del veterinario.
+
+Todo está bien.
+
+Este Puppy Planner no fue creado para llenarlo perfectamente.
+
+Fue creado para capturar una etapa que pasará mucho más rápido de lo que hoy imaginas.
+
+No te preocupes si algunas páginas quedan incompletas.
+
+Los recuerdos más importantes casi nunca siguen un plan.
+
+Escribe cuando tengas algo que quieras recordar.
+
+Detente cuando prefieras simplemente vivir el momento.
+
+Vuelve meses después.
+
+Añade una fotografía olvidada.
+
+Escribe una anécdota que acabas de recordar.
+
+Este libro crecerá al mismo ritmo que tu cachorro.
+
+Y, cuando el primer año haya terminado, descubrirás que ya no sostiene solamente recuerdos.
+
+Sostiene una parte de tu historia.
+
+---
+
+## Antes de comenzar
+
+No necesitas esperar al momento perfecto.
+
+Empieza hoy.
+
+Con una fotografía.
+
+Con una fecha.
+
+Con una frase.
+
+Con una sonrisa.
+
+Dentro de algunos años agradecerás haberlo hecho.
+
+---
+
+### Nota editorial
+
+**Emoción principal**
+
+Calma.
+
+**Objetivo**
+
+Eliminar la sensación de "manual".
+
+El lector debe sentir que acaba de abrir un libro que conservará durante muchos años.
+
+**Dirección de arte**
+
+- Mucho espacio en blanco.
+- Una ilustración muy sutil de pequeñas huellas recorriendo el margen inferior.
+- Sin recuadros.
+- Sin iconografía excesiva.
+- El texto debe respirar.
+
+<!-- END PATCH v1.0 -->
