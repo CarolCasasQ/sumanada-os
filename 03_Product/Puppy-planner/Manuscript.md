@@ -684,4 +684,185 @@ _____________________________
 
 _____________________________
 
-<!-- END OF v0.5 -->
+<!-- END OF v0.5 ## PATCH v0.6
+
+### Acción
+
+➕ Agregar el siguiente contenido **después** de:
+
+```md
+# Tu personalidad
+```
+
+---
+
+# Tus primeras veces
+
+Hay momentos que solo ocurren una vez.
+
+La primera noche.
+
+El primer paseo.
+
+El primer juguete.
+
+Con el tiempo, los recuerdos cambian de forma.
+
+Por eso queremos guardar aquí esos pequeños comienzos que, sin darnos cuenta, se convertirán en parte de nuestra historia.
+
+---
+
+## Nuestro álbum de primeras veces
+
+| Momento | Fecha | Un recuerdo que no queremos olvidar |
+|---------|-------|--------------------------------------|
+| Primera noche en casa | | |
+| Primer paseo | | |
+| Primer baño | | |
+| Primera visita al veterinario | | |
+| Primer juguete destruido | | |
+| Primer viaje en auto | | |
+| Primera orden aprendida | | |
+| Primer encuentro con otro perro | | |
+| Primer cumpleaños | | |
+
+---
+
+## La travesura que jamás olvidaremos
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+---
+
+## Lo que hacía reír a toda la familia
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+---
+
+## Su forma favorita de dormir
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+📷 Espacio para fotografía
+
+---
+
+## Algo que queremos recordar para siempre
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+---
+
+# Nuestro día a día
+
+Los días parecen iguales...
+
+Hasta que un día miras atrás y descubres que eran los días que más ibas a extrañar.
+
+Las rutinas no existen para buscar la perfección.
+
+Existen para dar tranquilidad.
+
+Con el tiempo descubrirás que los momentos más sencillos terminan siendo los más importantes.
+
+---
+
+## Nuestra rutina
+
+### Mañana
+
+Hora de despertar
+
+____________________
+
+Primera salida
+
+____________________
+
+Desayuno
+
+____________________
+
+Juego o paseo
+
+____________________
+
+Observaciones
+
+____________________________________________________________
+
+---
+
+### Tarde
+
+Comida
+
+____________________
+
+Descanso
+
+____________________
+
+Juego
+
+____________________
+
+Entrenamiento
+
+____________________
+
+Observaciones
+
+____________________________________________________________
+
+---
+
+### Noche
+
+Cena
+
+____________________
+
+Último paseo
+
+____________________
+
+Hora de dormir
+
+____________________
+
+¿Cómo terminó nuestro día?
+
+____________________________________________________________
+
+____________________________________________________________
+
+---
+
+## Nuestro pequeño logro de hoy
+
+Hoy queremos recordar esto:
+
+____________________________________________________________
+
+____________________________________________________________
+
+____________________________________________________________
+
+<!-- END OF v0.6 -->
+
