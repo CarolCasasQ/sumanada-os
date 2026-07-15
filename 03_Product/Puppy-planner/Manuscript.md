@@ -1,131 +1,71 @@
 # SuManada Puppy Planner
 
-**Version:** v0.1
-**Status:** Draft
-**Source of Truth:** This document is the only official manuscript.
+## El primer año de nuestra historia juntos
 
 ---
 
-# Product
+# Carta de bienvenida
 
-Title: SuManada Puppy Planner
+Si este libro llegó a tus manos, es muy probable que estés a punto de vivir una de las aventuras más bonitas de tu vida.
 
-Subtitle:
-El primer año de nuestra historia juntos
+Dentro de muy poco, o quizá desde hace apenas unos días, un cachorro comenzará a llenar tu hogar de pequeñas huellas, juguetes mordidos, carreras inesperadas y momentos que jamás imaginaste que podrían emocionarte tanto.
 
-Collection:
-Historias con Alma
+Habrá días fáciles.
 
----
+Habrá días caóticos.
 
-# Editorial Principles
+Algunas noches dormirás poco.
 
-- El perro es un miembro de la manada.
-- Escribimos para familias, no para adiestradores.
-- 80% práctico.
-- 20% emocional.
-- Una sola idea por página.
-- Mucho espacio en blanco.
-- Cada página debe invitar a escribir.
+Otras veces te preguntarás si lo estás haciendo bien.
 
----
+Y está bien sentir todo eso.
 
-# Target Reader
+Nadie nace sabiendo cómo construir una relación con un perro.
 
-Familias que reciben un cachorro durante su primer año de vida.
+La confianza se crea paso a paso, con paciencia, cariño y tiempo compartido.
 
----
+Este Puppy Planner no existe para buscar la perfección.
 
-# Book Structure
+Existe para ayudarte a recordar.
 
-## Portada
+Porque un cachorro no llega solamente a una casa.
 
-Pendiente
+Llega a una familia.
+
+Llega a una historia.
+
+Y hoy comienza la de ustedes.
+
+Bienvenidos a SuManada.
 
 ---
 
-## Bienvenida
+# Cómo usar este Puppy Planner
 
-Pendiente
+No existe una forma correcta de completar este libro.
 
----
+Puedes escribir.
 
-## Cómo usar este Puppy Planner
+Pegar fotografías.
 
-Pendiente
+Guardar recuerdos.
 
----
+Volver a estas páginas meses después.
 
-## Nuestra historia comienza
+O dejar algunas en blanco porque prefieres vivir el momento.
 
-Pendiente
+Este Puppy Planner fue diseñado para acompañarte durante el primer año de vida de tu cachorro.
 
----
+No es un examen.
 
-## Antes de llegar a casa
+No es una lista de obligaciones.
 
-Pendiente
+Es un espacio para construir recuerdos.
 
----
+Lo importante no es completar todas las páginas.
 
-## El gran día
-
-Pendiente
+Lo importante es que, cuando vuelvas a abrir este libro dentro de algunos años, puedas recordar exactamente cómo empezó esta historia.
 
 ---
 
-## Conociendo a mi cachorro
-
-Pendiente
-
----
-
-## Nuestro día a día
-
-Pendiente
-
----
-
-## Salud y bienestar
-
-Pendiente
-
----
-
-## Aprendiendo juntos
-
-Pendiente
-
----
-
-## Nuestro primer cumpleaños
-
-Pendiente
-
----
-
-## Carta para mi cachorro
-
-Pendiente
-
----
-
-## Nuestra huella
-
-Pendiente
-
----
-
-## Hasta pronto
-
-Pendiente
-
----
-
-# Change Log
-
-## v0.1
-
-- Se crea el manuscrito maestro.
-- Se establece una única fuente de verdad.
-- Se define la estructura editorial.
+<!-- END OF v0.2 -->
