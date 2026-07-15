@@ -524,3 +524,164 @@ ______________________________________________________________________
 ______________________________________________________________________
 
 <!-- END OF v0.4 -->
+## PATCH v0.5
+
+### Acción
+
+➕ Agregar el siguiente contenido **después** de:
+
+```md
+## Así eras cuando llegaste
+```
+
+---
+
+# Nuestra familia
+
+Un cachorro nunca llega solo a una casa.
+
+Llega a una familia.
+
+Cada integrante vive este momento de una forma diferente.
+
+Algunos se enamoran al instante.
+
+Otros necesitan un poco más de tiempo.
+
+Y él también comienza a descubrir quiénes serán las personas que lo acompañarán toda la vida.
+
+Esta página es para recordar cómo empezó esa relación.
+
+---
+
+## ¿Quién forma parte de nuestra manada?
+
+| Nombre | Relación | ¿Qué fue lo primero que dijo o hizo? |
+|---------|----------|--------------------------------------|
+|         |          |                                      |
+|         |          |                                      |
+|         |          |                                      |
+|         |          |                                      |
+|         |          |                                      |
+
+---
+
+## ¿Quién creó el vínculo más rápido?
+
+____________________________________________________________
+
+---
+
+## ¿Quién fue la persona favorita durante la primera semana?
+
+____________________________________________________________
+
+---
+
+## Nuestra primera fotografía en familia
+
+(Espacio para fotografía horizontal)
+
+---
+
+# Tu personalidad
+
+No existen dos cachorros iguales.
+
+Cada uno descubre el mundo a su propio ritmo.
+
+Hoy queremos detener el tiempo para recordar cómo eras al principio.
+
+Quizá dentro de algunos años cambies.
+
+O quizá sigas haciendo exactamente las mismas travesuras.
+
+---
+
+## Hoy te describiríamos así
+
+☐ Curioso
+
+☐ Tranquilo
+
+☐ Aventurero
+
+☐ Dormilón
+
+☐ Muy activo
+
+☐ Cariñoso
+
+☐ Independiente
+
+☐ Juguetón
+
+☐ Tímido
+
+☐ Valiente
+
+☐ Sociable
+
+☐ Observador
+
+☐ Glotón
+
+☐ Protector
+
+☐ Otro:
+
+_____________________________
+
+---
+
+## Tus cosas favoritas
+
+**Juguete favorito**
+
+____________________________________
+
+**Premio favorito**
+
+____________________________________
+
+**Lugar favorito**
+
+____________________________________
+
+**Persona que más buscas**
+
+____________________________________
+
+**Lo que más disfrutas hacer**
+
+____________________________________________________________
+
+____________________________________________________________
+
+---
+
+## Hay algo que solo tú haces...
+
+____________________________________________________________
+
+____________________________________________________________
+
+____________________________________________________________
+
+---
+
+## Si tuviéramos que describirte con tres palabras serían:
+
+1.
+
+_____________________________
+
+2.
+
+_____________________________
+
+3.
+
+_____________________________
+
+<!-- END OF v0.5 -->
