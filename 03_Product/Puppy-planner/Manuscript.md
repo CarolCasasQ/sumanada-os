@@ -1080,5 +1080,231 @@ ____________________________________________________________
 
 <!-- END OF v0.7 -->
 
+## PATCH v0.8
 
+### Acción
+
+➕ Agregar el siguiente contenido **después** de:
+
+```md
+# Salud y bienestar
+```
+
+---
+
+# Aprendiendo juntos
+
+Cada pequeño logro merece celebrarse.
+
+Aprender no significa hacerlo perfecto.
+
+Significa comprendernos un poco mejor cada día.
+
+Habrá ejercicios que dominará rápidamente.
+
+Otros necesitarán paciencia.
+
+Lo importante nunca será la velocidad.
+
+Lo importante será crecer juntos.
+
+---
+
+## Cosas que ya aprendimos
+
+☐ Responder a su nombre
+
+☐ Sentarse
+
+☐ Echarse
+
+☐ Quedarse quieto
+
+☐ Venir cuando lo llamamos
+
+☐ Caminar con correa
+
+☐ Esperar antes de comer
+
+☐ Soltar un objeto
+
+☐ Ir a su lugar
+
+☐ Hacer sus necesidades donde corresponde
+
+☐ Viajar tranquilo en auto
+
+☐ Saludar sin saltar
+
+☐ Otro
+
+_____________________________
+
+---
+
+## Nuestro mayor logro hasta ahora
+
+____________________________________________________________
+
+____________________________________________________________
+
+____________________________________________________________
+
+---
+
+## Lo que todavía estamos aprendiendo
+
+____________________________________________________________
+
+____________________________________________________________
+
+____________________________________________________________
+
+---
+
+## Algo que descubrimos el uno del otro
+
+____________________________________________________________
+
+____________________________________________________________
+
+____________________________________________________________
+
+📷 Espacio para fotografía
+
+---
+
+# Nuestro primer cumpleaños
+
+Parece increíble lo rápido que pasó el tiempo.
+
+Hace apenas unos meses todo era nuevo.
+
+Hoy miramos hacia atrás y descubrimos cuánto hemos crecido juntos.
+
+No celebramos solamente un cumpleaños.
+
+Celebramos un año lleno de confianza, aprendizajes y recuerdos.
+
+---
+
+## Nuestro primer cumpleaños
+
+**Fecha**
+
+_____________________________
+
+**¿Cómo lo celebramos?**
+
+____________________________________________________________
+
+____________________________________________________________
+
+____________________________________________________________
+
+**Su regalo favorito**
+
+____________________________________________________________
+
+**Nuestro momento favorito del día**
+
+____________________________________________________________
+
+____________________________________________________________
+
+📷 Espacio para fotografía de página completa
+
+---
+
+# Una carta para ti
+
+Hay palabras que merecen permanecer para siempre.
+
+Escribe aquí aquello que algún día te gustaría volver a leer.
+
+Cuando pasen los años, esta carta tendrá un significado completamente distinto.
+
+---
+
+Querido(a)
+
+_____________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+---
+
+# Nuestra huella
+
+Las fotografías guardan imágenes.
+
+Las palabras guardan recuerdos.
+
+Pero hay pequeños detalles que solo existen una vez.
+
+Esta página conservará uno de ellos.
+
+---
+
+🐾 **Espacio para la huella**
+
+(Dejar un área amplia y completamente en blanco)
+
+---
+
+**Fecha**
+
+_____________________________
+
+**Edad**
+
+_____________________________
+
+---
+
+# Hasta pronto
+
+Este libro termina.
+
+Nuestra historia no.
+
+A partir de aquí llegarán nuevos paseos.
+
+Nuevos juegos.
+
+Nuevas aventuras.
+
+Y también nuevos desafíos.
+
+Cuando vuelvas a abrir estas páginas, esperamos que puedas sonreír al recordar todo lo que vivieron juntos.
+
+Gracias por permitirnos acompañar el comienzo de esta historia.
+
+Con cariño,
+
+**SuManada**
+
+---
+
+## Fin del manuscrito
+
+**Versión:** v0.8
+
+**Estado:** Primer manuscrito completo
+
+<!-- END OF MANUSCRIPT -->
 
