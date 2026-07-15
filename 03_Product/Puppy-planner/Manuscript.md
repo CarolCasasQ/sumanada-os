@@ -371,4 +371,156 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
+<!-- END OF v0.4 -->## PATCH v0.4
+
+### Acción
+
+➕ Agregar el siguiente contenido **después** de:
+
+```md
+# Antes de llegar a casa
+```
+
+---
+
+# El gran día
+
+Hay recuerdos que merecen quedarse para siempre.
+
+Puede que no recuerdes la hora exacta.
+
+Pero sí recordarás cómo te sentiste cuando por fin estuvo contigo.
+
+Quizá olió cada rincón de la casa.
+
+Quizá buscó un lugar donde sentirse seguro.
+
+Quizá se quedó dormido después de tantas emociones.
+
+Ese fue el primer día de una vida compartida.
+
+Y merece un lugar especial en este libro.
+
+---
+
+## Nuestro gran día
+
+**Fecha**
+
+_____________________________
+
+**Hora de llegada**
+
+_____________________________
+
+**¿Quién fue por ti?**
+
+______________________________________________________________________
+
+**¿Qué fue lo primero que hiciste al entrar?**
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+**¿Qué fue lo primero que nos hizo sonreír?**
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+📷 **Nuestra primera fotografía juntos**
+
+(Espacio para fotografía de página completa)
+
+---
+
+# Conociéndote
+
+Los primeros días están llenos de descubrimientos.
+
+Cada mirada.
+
+Cada gesto.
+
+Cada pequeño hábito.
+
+Todo parece nuevo.
+
+Estas páginas son para recordar quién eras cuando comenzó esta historia.
+
+No importa cuánto cambies con los años.
+
+Siempre podremos volver aquí.
+
+---
+
+## Tu identidad
+
+**Nombre**
+
+____________________________________
+
+**¿Por qué elegimos este nombre?**
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+**Fecha de nacimiento**
+
+____________________
+
+**Fecha de llegada**
+
+____________________
+
+**Raza o mezcla**
+
+____________________________________
+
+**Color de pelaje**
+
+____________________________________
+
+**Color de ojos**
+
+____________________________________
+
+**Características que te hacen único**
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+📷 **Tu primera fotografía**
+
+(Espacio para fotografía vertical)
+
+---
+
+## Así eras cuando llegaste
+
+**Edad aproximada**
+
+____________________
+
+**Peso**
+
+____________________
+
+**Altura**
+
+____________________
+
+**Primer veterinario**
+
+____________________
+
+**¿Cómo fue ese primer chequeo?**
+
+______________________________________________________________________
+
+______________________________________________________________________
+
 <!-- END OF v0.4 -->
