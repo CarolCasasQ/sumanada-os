@@ -1307,4 +1307,78 @@ Con cariño,
 **Estado:** Primer manuscrito completo
 
 <!-- END OF MANUSCRIPT -->
+## PATCH v0.9
 
+### Acción
+
+✏️ Reemplazar **únicamente** la sección:
+
+```md
+# Carta de bienvenida
+```
+
+por la siguiente versión editorial.
+
+---
+
+# Carta de bienvenida
+
+> *"Toda gran historia comienza mucho antes del primer recuerdo. Comienza el día en que decidimos abrir el corazón."*
+
+Si este Puppy Planner llegó a tus manos, es porque una nueva historia está a punto de comenzar.
+
+Quizá todavía estás contando los días para recibir a tu cachorro.
+
+Quizá acaba de llegar y aún estás aprendiendo a reconocer el significado de cada mirada, cada movimiento de su cola y cada pequeño sonido que llena la casa de vida.
+
+Durante el próximo año vivirán momentos inolvidables.
+
+Habrá juguetes mordidos.
+
+Primeras noches con poco sueño.
+
+Paseos que parecerán expediciones.
+
+Pequeñas victorias que querrás celebrar.
+
+Y días difíciles en los que recordarás que ambos están aprendiendo.
+
+Todo eso forma parte del viaje.
+
+Este libro no fue creado para ayudarte a criar al cachorro perfecto.
+
+Fue creado para ayudarte a recordar la historia que construirán juntos.
+
+Porque un cachorro no solo aprende dónde está su cama.
+
+Aprende quién es su familia.
+
+Y una familia también aprende a convertirse en una verdadera manada.
+
+Dentro de algunos años volverás a abrir estas páginas.
+
+Tal vez encuentres una fotografía que habías olvidado.
+
+Tal vez sonrías al leer una anécdota escrita con prisas.
+
+Tal vez descubras cuánto crecieron los dos desde aquel primer día.
+
+Esperamos que este libro se convierta en uno de esos objetos que nunca se guardan por obligación.
+
+Sino porque contienen una parte de nuestra historia.
+
+Bienvenidos a SuManada.
+
+Comencemos.
+
+---
+
+### Nota editorial
+
+**Objetivo de la página**
+
+Esta página no debe sentirse como una introducción.
+
+Debe sentirse como la primera página de un libro que merece conservarse durante toda la vida.
+
+<!-- END PATCH v0.9 -->
