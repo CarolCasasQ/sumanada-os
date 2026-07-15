@@ -1,4 +1,4 @@
-# SuManada Puppy Planner
+                        # SuManada Puppy Planner
 
 ## El primer año de nuestra historia juntos
 
@@ -865,4 +865,220 @@ ____________________________________________________________
 ____________________________________________________________
 
 <!-- END OF v0.6 -->
+
+
+## PATCH v0.7
+
+### Acción
+
+➕ Agregar el siguiente contenido **después** de:
+
+```md
+# Nuestro día a día
+```
+
+---
+
+# Salud y bienestar
+
+Cuidarte también es una forma de decirte cuánto te queremos.
+
+Estas páginas no sustituyen el consejo de un profesional.
+
+Son un lugar para mantener organizada la información más importante y acompañarte durante tu primer año de vida.
+
+Con cada visita, vacuna y control, estamos construyendo una vida larga, saludable y llena de momentos felices.
+
+---
+
+## Nuestro equipo de confianza
+
+### Veterinario principal
+
+**Nombre**
+
+____________________________________
+
+**Clínica**
+
+____________________________________
+
+**Dirección**
+
+____________________________________
+
+**Teléfono**
+
+____________________________________
+
+**Correo**
+
+____________________________________
+
+**¿Por qué elegimos este veterinario?**
+
+____________________________________________________________
+
+____________________________________________________________
+
+---
+
+## Contactos importantes
+
+| Servicio | Nombre | Teléfono |
+|----------|---------|----------|
+| Veterinario de emergencia | | |
+| Clínica 24 horas | | |
+| Groomer | | |
+| Paseador | | |
+| Cuidador | | |
+
+---
+
+## Calendario de vacunas
+
+| Fecha | Vacuna | Próxima dosis | Observaciones |
+|-------|---------|---------------|---------------|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+## Desparasitación
+
+| Fecha | Interna / Externa | Producto | Próxima aplicación |
+|-------|--------------------|----------|--------------------|
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+## Control de crecimiento
+
+| Edad | Peso | Observaciones |
+|------|------|---------------|
+| 2 meses | | |
+| 3 meses | | |
+| 4 meses | | |
+| 5 meses | | |
+| 6 meses | | |
+| 7 meses | | |
+| 8 meses | | |
+| 9 meses | | |
+| 10 meses | | |
+| 11 meses | | |
+| 12 meses | | |
+
+---
+
+## Información importante
+
+**¿Tiene alguna alergia?**
+
+____________________________________________________________
+
+**¿Toma algún medicamento?**
+
+____________________________________________________________
+
+**¿Tiene alguna condición especial?**
+
+____________________________________________________________
+
+**Recomendaciones del veterinario**
+
+____________________________________________________________
+
+____________________________________________________________
+
+---
+
+## Nuestro botiquín
+
+☐ Gasas estériles
+
+☐ Suero fisiológico
+
+☐ Vendas
+
+☐ Termómetro digital
+
+☐ Pinza
+
+☐ Tijeras de punta roma
+
+☐ Guantes desechables
+
+☐ Toalla
+
+☐ Manta
+
+☐ Linterna
+
+☐ Lista de teléfonos de emergencia
+
+☐ Transportadora lista para usar
+
+---
+
+## Historial médico
+
+| Fecha | Motivo | Diagnóstico | Tratamiento |
+|-------|---------|-------------|-------------|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+## ¿Cómo me siento hoy?
+
+☐ Muy activo
+
+☐ Tranquilo
+
+☐ Más dormilón de lo habitual
+
+☐ Con poco apetito
+
+☐ Muy juguetón
+
+☐ Nervioso
+
+☐ Cariñoso
+
+☐ Otro:
+
+_____________________________
+
+---
+
+## Un momento para agradecer
+
+**¿Qué hizo esta semana que nos sacó una sonrisa?**
+
+____________________________________________________________
+
+____________________________________________________________
+
+**¿Qué aprendimos juntos?**
+
+____________________________________________________________
+
+____________________________________________________________
+
+**¿De qué nos sentimos especialmente orgullosos hoy?**
+
+____________________________________________________________
+
+____________________________________________________________
+
+<!-- END OF v0.7 -->
+
+
 
