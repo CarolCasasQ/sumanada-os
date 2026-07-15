@@ -64,8 +64,159 @@ Es un espacio para construir recuerdos.
 
 Lo importante no es completar todas las páginas.
 
-Lo importante es que, cuando vuelvas a abrir este libro dentro de algunos años, puedas recordar exactamente cómo empezó esta historia.
+Lo importante es que, cuando vuelvas a abrir este libro dentro de algunos años, puedas recordar exactamente cómo empezó esta ## PATCH v0.3
+
+### Acción
+
+➕ Agregar el siguiente contenido **después** de:
+
+```md
+# Cómo usar este Puppy Planner
+```
+
+y **antes** del siguiente capítulo.
 
 ---
+
+# Nuestra historia comienza hoy
+
+Hay días que cambian la vida sin hacer demasiado ruido.
+
+El día en que un cachorro cruza la puerta de casa es uno de ellos.
+
+Quizá llevabas semanas esperándolo.
+
+Quizá ocurrió de manera inesperada.
+
+Quizá no elegiste ese momento.
+
+Pero, de alguna forma, él terminó encontrando el camino hasta tu familia.
+
+Hoy comienza una historia que ningún calendario podrá medir.
+
+Porque algunas historias no se cuentan en días.
+
+Se cuentan en recuerdos.
+
+## Nuestra historia
+
+**Fecha**
+
+_____________________________
+
+**¿Cómo llegó a nuestra familia?**
+
+☐ Adopción
+
+☐ Rescate
+
+☐ Criador responsable
+
+☐ Otro
+
+¿Cuál?
+
+_____________________________
+
+## Cuéntanos cómo comenzó esta historia
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+📷 **Nuestra primera fotografía**
+
+(Espacio para una fotografía horizontal)
+
+---
+
+# Antes de llegar a casa
+
+Antes de abrir la puerta, también preparábamos nuestro corazón.
+
+Cada pequeño detalle era una forma de decir:
+
+*"Te estamos esperando."*
+
+## Checklist
+
+### Descanso
+
+☐ Cama
+
+☐ Manta
+
+☐ Transportadora
+
+---
+
+### Alimentación
+
+☐ Comedero
+
+☐ Bebedero
+
+☐ Alimento
+
+☐ Premios
+
+---
+
+### Paseos
+
+☐ Collar
+
+☐ Placa
+
+☐ Correa
+
+☐ Bolsas
+
+---
+
+### Bienestar
+
+☐ Juguetes
+
+☐ Cepillo
+
+☐ Shampoo
+
+☐ Botiquín
+
+☐ Veterinario elegido
+
+---
+
+### Hogar seguro
+
+☐ Zona de descanso preparada
+
+☐ Cables protegidos
+
+☐ Plantas revisadas
+
+☐ Productos de limpieza fuera de alcance
+
+☐ Basurero con tapa
+
+---
+
+## Antes de su llegada...
+
+Me siento:
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+______________________________________________________________________
+
+<!-- END OF v0.3 -->
+
 
 <!-- END OF v0.2 -->
